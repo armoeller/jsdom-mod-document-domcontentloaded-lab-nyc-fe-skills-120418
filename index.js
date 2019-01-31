@@ -1,2 +1,2 @@
 /* code goes here */
-document.getElementById('hidden')
+document.getElementById('hidden-div');
