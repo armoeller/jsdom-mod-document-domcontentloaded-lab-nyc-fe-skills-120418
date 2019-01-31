@@ -1,2 +1,2 @@
 /* code goes here */
-document.getElementById('hidden-div');
+document.querySelector('div#hidden-div')
