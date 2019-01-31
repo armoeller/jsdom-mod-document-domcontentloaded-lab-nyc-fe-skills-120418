@@ -1,2 +1,4 @@
 /* code goes here */
-document.querySelector("div#hidden-div").innerText
+div = document.querySelector("div#hidden-div")
+
+div.innerText = 301;
